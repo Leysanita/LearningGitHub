@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1/Typing typing typing changes
 2/ More changes more changes
 
@@ -6,3 +7,10 @@
 
 new changes again
 
+=======
+Typing typing typing changes
+More changes more changes
+
+
+Even more changes 
+>>>>>>> ee7631c8d9158f53f1daac523609a663769e7755
