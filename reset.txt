@@ -1,1 +1,4 @@
 I would like to follow the  instructions of 2.4. Git Basics - Undoing things but the hell  it 's working out
+
+
+Again trying to reset things.
