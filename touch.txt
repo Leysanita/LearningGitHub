@@ -1,0 +1,1 @@
+when the file is added to the Working area, it means that it is tracked. when it is changed being in this area it becomed unstaged. you have to add it again to the working area, otherwise (if you commit it) it will be in the repo in that status as it was after 1st before 2nd change. 
