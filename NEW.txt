@@ -1,0 +1,1 @@
+Now trying to commit 2 things and 'forgetting' to index smth - use --amend
